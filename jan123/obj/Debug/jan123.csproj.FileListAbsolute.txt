@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\jan123\jan123\bin\Debug\jan123.exe.config
+C:\Users\rudye\source\repos\jan123\jan123\bin\Debug\jan123.exe
+C:\Users\rudye\source\repos\jan123\jan123\bin\Debug\jan123.pdb
+C:\Users\rudye\source\repos\jan123\jan123\obj\Debug\jan123.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\jan123\jan123\obj\Debug\jan123.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\jan123\jan123\obj\Debug\jan123.exe
+C:\Users\rudye\source\repos\jan123\jan123\obj\Debug\jan123.pdb
